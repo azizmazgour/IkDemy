@@ -1,0 +1,145 @@
+/**
+ *
+ *
+ *
+ *
+/***************************************************************************/
+/****************************  $Media Queries  *****************************/
+/*
+ * The styles by default are for desktops devices with resolutions
+ * than 1200px of width or more.
+ */
+/**
+ *
+ *
+/*****************  $Medium devices (Desktops) <= 1200px  ******************/
+@media handheld, only screen and (max-width: 1200px) {
+}
+/**
+ *
+ *
+/*******************  $Small devices (Tablets) <= 992px  *******************/
+@media handheld, only screen and (max-width: 992px) {
+  .navbar-nav>li>a {
+    margin: 30px 5px;
+  }
+  .gallery figure.item-thumbnail .icons a {
+    border-width: 2px;
+    font-size: 1.8em;
+    height: 90px;
+    line-height: 87px;
+    width: 90px;
+  }
+  .gallery figure.item-thumbnail:hover .icons {
+    margin-top: -45px;
+  }
+  .testimonials .owl-carousel .txt {
+    width: 650px;
+  }
+  .image_slide img{
+    display: none;
+  }
+}
+/*
+ *
+ *
+/****************  $Extra Small devices (Phones) <= 768px  *****************/
+@media handheld, only screen and (max-width: 768px) {
+  .contact {
+    height: auto;
+  }
+  .contact .contact-info {
+    min-height: 390px;
+    position: static;
+    width: 100%;
+  }
+  .contact .map {
+    width: 100%;
+  }
+  .features .features-item,
+  .coaches .coaches-item,
+  .pricing .pricing-item {
+    margin: 50px auto;
+    max-width: 400px;
+  }
+  .gallery {
+    max-height: 100%;
+  }
+  .gallery figure {
+    width: 50%;
+  }
+  .home h1 {
+    font-size: 2em;
+  }
+  .home h3 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  .login-navbar {
+    border: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .login-navbar>.login-button {
+    display: inline-block;
+    margin: 10px;
+  }
+  .navbar {
+    height: 60px;
+  }
+  .navbar .navbar-brand {
+    margin: 10px 0 !important;
+  }
+  .navbar-collapse {
+    background-color: #242424;
+  }
+  .navbar-nav>li>a {
+    margin: 10px 5px;
+    text-align: center;
+    width: 100%;
+  }
+  .navbar-toggle {
+    margin: 10px;
+  }
+  .testimonials .owl-carousel .txt {
+    width: 90%;
+  }
+}
+/*
+ *
+ *
+/***************  $Extra Small devices (Phones) <= 500px  *****************/
+@media handheld, only screen and (max-width: 500px) {
+  .login-button>button {
+    z-index: 1000 !important;
+  }
+  .login-button.open .login-content.login-content-login,
+  .login-button.open .login-content.login-content-singup {
+    height: 230px !important;
+    left: 0 !important;
+    margin: 5px 1% !important;
+    overflow-x: hidden !important;
+    overflow-y: scroll !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 98% !important;
+  }
+  .login-forms form {
+    padding: 0 10px !important;
+  }
+  .login-forms h2 {
+    font-size: 1em !important;
+  }
+  .login-navbar>.login-button {
+    position: static;
+  }
+  .navbar .navbar-brand {
+    margin: 12px 0 !important;
+  }
+  .parallax {
+    background-attachment: scroll;
+    background-position: 0 0;
+    background-size: cover;
+  }
+}

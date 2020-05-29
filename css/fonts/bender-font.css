@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_black-webfont.eot');
+    src: url('bender/bender_black-webfont_2d2816fe.eot') format('embedded-opentype'),
+    url('bender/bender_black-webfont.woff') format('woff'),
+    url('bender/bender_black-webfont.ttf') format('truetype'),
+    url('bender/bender_black-webfont.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_black_italic-webfont.eot');
+    src: url('bender/bender_black_italic-webfont_2d2816fe.eot') format('embedded-opentype'),
+    url('bender/bender_black_italic-webfont.woff') format('woff'),
+    url('bender/bender_black_italic-webfont.ttf') format('truetype'),
+    url('bender/bender_black_italic-webfont.svg') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_bold.eot');
+    src: url('bender/bender_bold.eot') format('embedded-opentype'),
+    url('bender/bender_bold.woff') format('woff'),
+    url('bender/bender_bold.ttf') format('truetype'),
+    url('bender/bender_bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_bold_italic.eot');
+    src: url('bender/bender_bold_italic.eot') format('embedded-opentype'),
+    url('bender/bender_bold_italic.woff') format('woff'),
+    url('bender/bender_bold_italic.ttf') format('truetype'),
+    url('bender/bender_bold_italic.svg') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_light-webfont.eot');
+    src: url('bender/bender_light-webfont_2d2816fe.eot') format('embedded-opentype'),
+    url('bender/bender_light-webfont.woff') format('woff'),
+    url('bender/bender_light-webfont.ttf') format('truetype'),
+    url('bender/bender_light-webfont.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bender';
+    src: url('bender/bender_light_italic-webfont.eot');
+    src: url('bender/bender_light_italic-webfont_2d2816fe.eot') format('embedded-opentype'),
+    url('bender/bender_light_italic-webfont.woff') format('woff'),
+    url('bender/bender_light_italic-webfont.ttf') format('truetype'),
+    url('bender/bender_light_italic-webfont.svg') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}

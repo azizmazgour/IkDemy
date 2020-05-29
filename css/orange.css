@@ -1,0 +1,78 @@
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span{
+	color: #ff5335;
+}
+span{
+	color: #ff5335;
+}
+.btn{
+	background-color: #ff5335;
+}
+.btn:hover{
+	background-color: #232323;
+	border-color: #ff5335;
+	color: #ff5335;
+}
+.club .panel .panel-title i{
+	color: #ff5335;
+}
+.coaches h6{
+	color: #ff5335;
+}
+.coaches .coaches-item{
+	border: 1px solid #ff5335;
+}
+.contact .contact-info{
+	background-color: #ff5335;
+}
+.contact .contact-info:after{
+	border-top: 390px solid #ff5335;
+}
+.features-item i{
+	border: 3px solid #ff5335;
+	color: #ff5335;
+}
+.features-item:hover i {
+	background-color: #ff5335;
+}
+.features-item h4:after{
+	background: #ff5335;
+}
+.item-thumbnail .overthumb{
+	background: #ff5335;
+}
+.login-button>button{
+	color: #ff5335;
+}
+.login-button>button:hover{
+	background: #ff5335;
+}
+
+.patners .owl-theme .owl-controls .owl-prev:before{
+	color: #ff5335;
+}
+.patners .owl-theme .owl-controls .owl-prev:before, .patners .owl-theme .owl-controls .owl-next:before{
+	color: #ff5335;
+}
+.pricing .pricing-item:before{
+	background: #ff5335;
+}
+.social li a:hover{
+	color: #ff5335;
+}
+.testimonials .owl-carousel .current figure{
+	border-color: #ff5335;
+}
+.testimonials .owl-carousel .current figure:after{
+	border-top-color: #ff5335;
+}
+#theme-options .layout-style li.active,
+#theme-options .layout-style li.active a{
+  background: #ff5335;
+  color: #fff;
+}
+.tooltip-inner{
+	background: #ff5335!important;
+}
+.tooltip-arrow{
+	border-top-color: #ff5335!important;
+}
